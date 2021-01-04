@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+<student>
+<name> srinisha </name>
+<id> 001 </id>
+<branch> IT </branch>
+<cgpa> 9 </cgpa>
+</student>
+<student>
+<name> kyathi </name>
+<id> 004 </id>
+<branch> Computer </branch>
+<cgpa> 9 </cgpa>
+</student>
+<student>
+<name> chandana </name>
+<id> 005 </id>
+<branch> ECE </branch>
+<cgpa> 7 </cgpa>
+</student>
+<student>
+<name> mounika </name>
+<id> 006 </id>
+<branch> ISE </branch>
+<cgpa> 10 </cgpa>
+</student>
+<student>
+<name> prasanthi </name>
+<id> 090 </id>
+<branch> EEE </branch>
+<cgpa> 8 </cgpa>
+</student>
+</class>
