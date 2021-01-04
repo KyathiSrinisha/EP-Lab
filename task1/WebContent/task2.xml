@@ -1,39 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<books> 
-    <heading>Welcome to EP LAB </heading> 
-    <book> 
-        <title>Title -: Web Programming</title> 
-        <author>Author -: Chrisbates</author> 
-        <publisher>Publisher -: Wiley</publisher> 
-        <edition>Edition -: 3</edition> 
-        <price> Price -: 300</price> 
-    </book> 
-    <book> 
-        <title>Title -: Internet world-wide-web</title> 
-        <author>Author -: Ditel</author> 
-        <publisher>Publisher -: Pearson</publisher> 
-        <edition>Edition -: 3</edition> 
-        <price>Price -: 400</price> 
-    </book> 
-    <book> 
-        <title>Title -: Computer Networks</title> 
-        <author>Author -: Foruouzan</author> 
-        <publisher>Publisher -: Mc Graw Hill</publisher> 
-        <edition>Edition -: 5</edition> 
-        <price>Price -: 700</price> 
-    </book> 
-    <book> 
-        <title>Title -: DBMS Concepts</title> 
-        <author>Author -: Navath</author> 
-        <publisher>Publisher -: Oxford</publisher> 
-        <edition>Edition -: 5</edition> 
-        <price>Price -: 600</price> 
-    </book> 
-    <book> 
-        <title>Title -: Linux Programming</title> 
-        <author>Author -: Subhitab Das</author> 
-        <publisher>Publisher -: Oxford</publisher> 
-        <edition>Edition -: 8</edition> 
-        <price>Price -: 300</price> 
-    </book> 
-</books> 
+<students_info>
+<student>   
+<id>1</id>                             
+   <regno>170024</regno>
+   <name>mounika</name>    
+   <avg>92</avg>
+   <dob>15-08-1992</dob>  
+   <time>9:54</time>       
+   <mobileno>9849984900</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+<student>   
+<id>2</id>                             
+   <regno>170022</regno>
+   <name>sri</name>    
+   <avg>92</avg>
+   <dob>15-08-1992</dob>  
+   <time>9:52</time>       
+   <mobileno>1234567890</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+ <student>   
+<id>3</id>                             
+   <regno>170023</regno>
+   <name>nisha</name>    
+   <avg>92</avg>
+   <dob>15-08-1992</dob>  
+   <time>9:58</time>       
+   <mobileno>0987654321</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+ <student>   
+<id>4</id>                             
+   <regno>170029</regno>
+   <name>ram</name>    
+   <avg>92</avg>
+   <dob>15-08-1992</dob>  
+   <time>9:51</time>       
+   <mobileno>9876543210</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+ <student>   
+<id>5</id>                             
+   <regno>170024</regno>
+   <name>ABC</name>    
+   <avg>92</avg>
+   <dob>15-08-1992</dob>  
+   <time>9:57</time>       
+   <mobileno>9849984900</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+
+</students_info>
